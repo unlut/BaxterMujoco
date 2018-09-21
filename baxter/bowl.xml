@@ -45,10 +45,10 @@
             </body> -->
             
 
-            <!-- <joint name="deleteme" type="free" damping="0.1" limited="false"></joint> -->
-            <!-- <geom rgba="0.2 0.2 0.2 1" type="mesh" mesh="pedestal_link_collision"/> -->
-            <!-- <geom pos="-.04 0 -.8" rgba="0.2 0.2 0.2 1" type="mesh" size=".46 .425 .16"/> -->
-            <!-- <geom pos="0 0 -.35" rgba="0.2 0.2 0.2 1" type="capsule" size=".165 .25"/> -->
+            <!-- <joint name="deleteme" type="free" damping="0.1" limited="false"></joint>
+            <geom rgba="0.2 0.2 0.2 1" type="mesh" mesh="pedestal_link_collision"/>
+            <geom pos="-.04 0 -.8" rgba="0.2 0.2 0.2 1" type="mesh" size=".46 .425 .16"/>
+            <geom pos="0 0 -.35" rgba="0.2 0.2 0.2 1" type="capsule" size=".165 .25"/> -->
         </body>
 	</worldbody>
 </mujoco>

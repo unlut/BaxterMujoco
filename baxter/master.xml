@@ -9,12 +9,12 @@
 		<texture type="skybox" builtin="gradient" rgb1="0.44 0.85 0.56" rgb2="0.46 0.87 0.58" width="32" height="32"></texture>
 	</asset>
 
-	<!--<include file="cube.xml"></include>-->
+	<include file="cube.xml"></include>
 	<include file="ground.xml"></include>
 	<include file="baxter_only.xml"></include>
 	<include file="table.xml"></include>
-	<include file="bowl.xml"></include>
-	<include file="dusen_kupler.xml"></include>
+	<!-- <include file="bowl.xml"></include> -->
+	<!-- <include file="dusen_kupler.xml"></include> -->
 	<!-- <include file="dusen_yumurtalar.xml"></include> -->
 	
 	<worldbody>
